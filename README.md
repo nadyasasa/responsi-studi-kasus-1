@@ -1,9 +1,10 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Senopati Ajeng Sinta ANR
-NIU :  460567
-Sesi : Jarkom Siang 
-Secret String : secret-string.cpython-311
+
+- Nama : Senopati Ajeng Sinta ANR
+- NIU :  460567
+- Sesi : Jarkom Siang 
+- Secret String : secret-string.cpython-311
 
 ## Checklist Responsi
 
